@@ -34,6 +34,7 @@ class PageHome extends StatelessWidget {
                 width: double.infinity,
                 height: 100,
               ),
+              Container(),
               Container(
                 color: Colors.yellowAccent,
                 width: double.infinity,
